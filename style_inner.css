@@ -7,7 +7,7 @@
 body {
     height: 100vh;
     width: 100%;
-    background: #CCFFCC;
+    background: #c1d7ef;
 }
 
 .main_wrapper{
@@ -24,7 +24,7 @@ body {
 
 .wrapper_footer {
     display: flex;
-    justify-content: center;
+    justify-content: left;
 }
 
 header {
@@ -49,7 +49,7 @@ footer {
 }
 
 #left_side{
-    width: 28%;
+    width: 30%;
     background: #00CC00;
     border: 2px solid #009900;
 }
